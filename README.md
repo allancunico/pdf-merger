@@ -26,9 +26,9 @@ To create a standalone Windows executable:
 
 - Python 3.7+
 - Packages:
-  - PyPDF2
   - Pillow
   - PyInstaller
+  - PyPDF2
 
 Install dependencies:
 ```bash
